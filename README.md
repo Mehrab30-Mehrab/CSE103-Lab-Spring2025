@@ -1,27 +1,33 @@
 <!-- ✨ Floating animated header using HTML for GitHub markdown -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70A59&center=true&vCenter=true&width=900&lines=%F0%9F%93%97+CSE103+Lab+Assignment+-+Spring+2025;East+West+University+%F0%9F%8F%9B%EF%B8%8F+%7C+Faculty%3A+Taskeed+Jabid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70A59&center=true&vCenter=true&width=900&lines=%F0%9F%93%97+CSE103+Lab+Assignment+-+Spring+2025;East+West+University+%F0%9F%8F%9B%EF%B8%8F+%7C+Faculty%3A+Taskeed+Jabid;Student%3A+Mehrab+Morshed+%7C+ID%3A+2025-1-60-142" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🎓 CSE103 Lab Assignment – Spring 2025
+<h1 align="center">🎓 CSE103 Lab Assignment – Spring 2025</h1>
 
-> 🏛️ **East West University**  
-> 👨‍🏫 **Faculty:** *Taskeed Jabid*  
-> 📘 **Course:** CSE 103 – Computer Programming  
-> 📅 **Semester:** Spring 2025  
-
----
-
-![C](https://img.shields.io/badge/Language-C-blue.svg)  
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/CSE103-Lab-Spring2025)  
-![GitHub repo size](https://img.shields.io/github/repo-size/your-github-username/CSE103-Lab-Spring2025)  
-![Visitors](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<p align="center">
+  🏛️ <strong>East West University</strong>  
+  <br>👨‍🏫 <strong>Faculty:</strong> <em>Taskeed Jabid</em>  
+  <br>🧑‍🎓 <strong>Student:</strong> <em>Mehrab Morshed</em>  
+  <br>🆔 <strong>ID:</strong> 2025-1-60-142  
+  <br>📘 <strong>Course:</strong> CSE 103 – Computer Programming  
+  <br>📅 <strong>Semester:</strong> Spring 2025  
+</p>
 
 ---
 
-## 🚀 Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue.svg" />
+  <img src="https://img.shields.io/github/last-commit/Mehrab30-Mehrab/CSE103-Lab-Spring2025" />
+  <img src="https://img.shields.io/github/repo-size/Mehrab30-Mehrab/CSE103-Lab-Spring2025" />
+  <img src="https://komarev.com/ghpvc/?username=Mehrab30-Mehrab&color=blue" />
+</p>
+
+---
+
+<h2 align="center">🚀 Overview</h2>
 
 This repository contains solutions to **CSE103 Lab Assignments** organized into the following parts:
 
@@ -35,7 +41,7 @@ This repository contains solutions to **CSE103 Lab Assignments** organized into 
 
 ---
 
-## 📁 Assignment Details
+<h2 align="center">📁 Assignment Details</h2>
 
 ### 🔹 Part A – One-Dimensional Array
 
@@ -137,40 +143,19 @@ This repository contains solutions to **CSE103 Lab Assignments** organized into 
 
 ---
 
-## ✅ How to Run the Code
+<h2 align="center">✅ How to Run the Code</h2>
 
 ```bash
 gcc filename.c -o output
 ./output
 ```
+<h2 align="center">📌 Notes</h2>
 
-Replace `filename.c` with the specific file name of the program.
-
----
-
-## 📌 Notes
-
-- All solutions are implemented in **C** language.  
-- Designed for learning and practicing problem-solving skills.  
+- All solutions are implemented in C language.
+- Designed for learning and practicing problem-solving skills.
 - Structured and modular code is used wherever possible.
 
----
 
-## 🌟 Show Some Love
-
-If you found this helpful, please ⭐ the repository!
-
----
-
-## 📫 Connect
-
-> 🔗 [East West University Website](https://www.ewubd.edu/)  
-> 👨‍🏫 Faculty: Taskeed Jabid  
-> 📘 Course Code: CSE 103
-
----
-
-<p align="center">
-  <b>✨ Thank you for visiting this repository. Happy coding and keep learning! ✨</b><br>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
-</p>
+<h2 align="center">📫 Connect</h2> <p align="center"> 🔗 <a href="https://www.ewubd.edu/">East West University Website</a><br> 👨‍🏫 Faculty: Taskeed Jabid<br> 📘 Course Code: CSE 103<br> 🧑‍🎓 Student: Mehrab Morshed (2025-1-60-142) </p>
+<p align="center"> <b>✨ Thank you for visiting this repository. Happy coding and keep learning! ✨</b><br> </p>
+ <!-- 🌊 Red Wave Footer --> <p align="center"> <img src="https://raw.githubusercontent.com/your-github-username/CSE103-Lab-Spring2025/main/assets/red-wave.svg" alt="Red Wave Footer" /> </p> ```
